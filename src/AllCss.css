@@ -1,0 +1,63 @@
+.Image
+{
+    height: 100px;
+    width: auto;
+    border-radius: 18px;
+}
+.display-div
+{
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px 10px;
+
+}
+.cart-btn
+{
+    border: none;
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    padding:10px;
+    background-color: skyblue;
+
+}
+.cart-display-div
+{
+    margin: auto;
+    float: right;
+    padding:  10px;
+}
+
+.first-disp
+{
+    height: auto;
+    width: 32%;
+}
+#cart-image
+{
+    /* width: auto; */
+    height: 50px;
+    float: right;
+    padding: 5px;
+}
+.second-div
+{
+    height: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: skyblue;
+    padding: 10px;
+}
+.grid1
+{
+    margin: auto;
+}
+.grid2
+{
+
+    float: right;
+}
